@@ -19,7 +19,7 @@
 
 <!-- * File -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data/AmesHousing.csv">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_src/AmesHousing.csv">
 AmesHousing.csv
 </a></code>
 </td>
@@ -43,8 +43,8 @@ Kaggle
 
 <!-- * File -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data/AmesHousing&#8209;doc.txt">
-AmesHousing-doc.txt
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_src/AmesHousing-doc.txt">
+AmesHousing&#8209;doc.txt
 </a></code>
 </td>
 
