@@ -19,7 +19,7 @@
 
 <!-- * File -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_src/AmesHousing.csv">
+<code><a target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/blob/master/data_stg0/AmesHousing.csv'>
 AmesHousing.csv
 </a></code>
 </td>
@@ -43,14 +43,14 @@ Kaggle
 
 <!-- * File -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_src/AmesHousing-doc.txt">
+<code><a target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/blob/master/data_stg0/AmesHousing-doc.txt'>
 AmesHousing&#8209;doc.txt
 </a></code>
 </td>
 
 <!-- * Source -->
 <td align="left">
-<a target="_blank" rel="noopener noreferrer" href="https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt">
+<a target="_blank" rel="noopener noreferrer" href='https://ww2.amstat.org/publications/jse/v19n3/decock/DataDocumentation.txt'>
 www.amstat.org
 </a>
 </td>

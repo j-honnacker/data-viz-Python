@@ -26,8 +26,8 @@ AmesHousing.csv
 
 <!-- * Source Files -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_src/AmesHousing.csv">
-/data_src/AmesHousing.csv
+<code><a target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/blob/master/data_stg0/AmesHousing.csv'>
+/data_stg0/AmesHousing.csv
 </a></code>
 </td>
 
