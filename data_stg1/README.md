@@ -19,7 +19,7 @@
 
 <!-- * File -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data/AmesHousing.csv">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_stg1/AmesHousing.csv">
 AmesHousing.csv
 </a></code>
 </td>
