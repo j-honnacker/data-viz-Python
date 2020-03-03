@@ -33,8 +33,8 @@ AmesHousing.csv
 
 <!-- * Source Code -->
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/dataprep_ames.ipynb">
-/dataprep_ames.ipynb
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/dataprep_stg1_ames.ipynb">
+/dataprep_stg1_ames.ipynb
 </a></code>
 </td>
 
