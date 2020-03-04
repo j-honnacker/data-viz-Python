@@ -173,7 +173,7 @@ creates a subset that only contains townhouse data
 
 <!-- Details: dataprep_stg1_rhine-wl.ipynb -->
 
-#### <a id='dataprep_stg1_ames_wl' target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/tree/master/dataprep_stg1_rhine_wl.ipynb'>`dataprep_stg1_rhine_wl.R`</a>
+#### <a id='dataprep_stg1_ames_wl' target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/tree/master/dataprep_stg1_rhine_wl.ipynb'>`dataprep_stg1_rhine-wl.ipynb`</a>
 
 <p align="center">
   <img src="https://github.com/j-honnacker/data-viz-Python/blob/README/prep_stg1_rhine_wl.png" alt="" width="600"/>
