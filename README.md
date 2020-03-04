@@ -133,6 +133,22 @@ removes outliers as recommended by the data provider
 </tr>
 
 
+<!-- dataprep_stg1_rhine-wl.ipynb -->
+<tr>
+
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/dataprep_stg1_rhine-wl.ipynb">
+dataprep_stg1_rhine-wl.ipynb
+</a></code>
+</td>
+
+<td align="left">
+takes 23 yearly CSV files as input, reshapes the data, and saves the result into a single CSV file <a href="#dataprep_stg1_ames_wl">Details</a>
+</td>
+
+</tr>
+
+
 <!-- dataprep_stg2_ames.ipynb -->
 <tr>
 
@@ -152,3 +168,13 @@ creates a subset that only contains townhouse data
 </tbody>
 
 </table>
+
+
+
+<!-- Details: dataprep_stg1_rhine-wl.ipynb -->
+
+#### <a id='dataprep_stg1_ames_wl' target="_blank" rel="noopener noreferrer" href='https://github.com/j-honnacker/data-viz-Python/tree/master/dataprep_stg1_rhine_wl.ipynb'>`dataprep_stg1_rhine_wl.R`</a>
+
+<p align="center">
+  <img src="https://github.com/j-honnacker/data-viz-Python/blob/README/prep_stg1_rhine_wl.png" alt="" width="600"/>
+</p>
