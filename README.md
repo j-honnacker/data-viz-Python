@@ -133,6 +133,22 @@ removes outliers as recommended by the data provider
 </tr>
 
 
+<!-- dataprep_stg1_nyc-pr.ipynb -->
+<tr>
+
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/dataprep_stg1_nyc-pr.ipynb">
+dataprep_stg1_nyc-pr.ipynb
+</a></code>
+</td>
+
+<td align="left">
+creates yearly subsets
+</td>
+
+</tr>
+
+
 <!-- dataprep_stg1_rhine-wl.ipynb -->
 <tr>
 
