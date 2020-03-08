@@ -41,6 +41,33 @@ AmesHousing.csv
 </tr>
 
 
+<!-- nyc_pr_<yyyy>.csv --> 
+<tr>
+
+<!-- * File -->
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/data_stg1/nyc_pr_2019.csv">
+nyc_pr_&ltyyyy&gt.csv
+</a></code>
+</td>
+
+<!-- * Source Files -->
+<td align="left">
+<a target="_blank" rel="noopener noreferrer" href='https://data.cityofnewyork.us/api/views/k397-673e/rows.csv?accessType=DOWNLOAD'>
+https://data.cityofnewyork.us/
+</a>
+</td>
+
+<!-- * Source Code -->
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-viz-Python/blob/master/dataprep_stg1_nyc-pr.ipynb">
+/dataprep_stg1_nyc-pr.ipynb
+</a></code>
+</td>
+
+</tr>
+
+
 <!-- rhine_wl.csv --> 
 <tr>
 
